@@ -10,6 +10,11 @@ authorName: 'Serverless, inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
+
+![image](https://github.com/davender-singh1/aws-node-http-api-project/assets/106000634/7ef296dd-092a-46ca-8859-0ca01344cbca)
+
+
+
 # Serverless Framework Node HTTP API on AWS
 
 This template demonstrates how to make a simple HTTP API with Node.js running on AWS Lambda and API Gateway using the Serverless Framework.
